@@ -3232,6 +3232,8 @@ Get [OPML](https://raw.githubusercontent.com/dev-blog-directory/dev-blog-directo
   <br>`#Personal` `#ios`
 - [Research Geek](https://researchgeek.co.uk/blog/) ([Feed](https://researchgeek.co.uk/blog/feed/))
   <br>`#geek`
+- [Resulticks Blog](https://www.resulticks.com/blog/) ([Feed](https://www.resulticks.com/blog/))
+  <br>`#Team` `#Blog`
 - [RetailMeNot](https://medium.com/retailmenot-engineering/) ([Feed](https://medium.com/feed/retailmenot-engineering))
   <br>`#Team`
 - [Reveal Blog](https://revealapp.com/) ([Feed](https://revealapp.com/news/index.xml))
